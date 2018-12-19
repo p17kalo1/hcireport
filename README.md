@@ -9,13 +9,13 @@ Tελική αναφορά της εργασίας ανάπτυξης στο μ�
 # 
 Στην παρακάτω αναφορά, η οποία αποτελεί και την τελική αναφορά του μαθήματος, περιέχεται μία εισαγωγή σχετικά με την εργασία αυτή, καθώς και τα συμπεράσματα που προκύπτουν. Παράλληλα, αναλύονται σχετικά έργα και εργαλεία, μέθοδοι και τεχνικές ανάπτυξης αλλά και αποτελέσματα με λεζάντες σε ενδεικτικές οθόνες και animated gif. Παρακάτω δίνονται τα λινκ τα οποία είναι απαραίτητα για την πλήρη αξιολόγηση της εργασίας εξαμήνου: 
 
-** Προφίλ του λογαριασμού στο github: https://github.com/p17kalo1 
+* Προφίλ του λογαριασμού στο github: https://github.com/p17kalo1 
 
-** Εκτελέσιμο λινκ εργασίας: https://p17kalo1.github.io/D3js-US-educational-attainment/ 
+* Εκτελέσιμο λινκ εργασίας: https://p17kalo1.github.io/D3js-US-educational-attainment/ 
 
-** Link αποθετηρίου εργασλιας: https://github.com/p17kalo1/D3js-US-educational-attainment/
+* Link αποθετηρίου εργασλιας: https://github.com/p17kalo1/D3js-US-educational-attainment/
 
-** Link αποθετηρίου τελικής αναφοράς:https://github.com/p17kalo1/hcireport/
+* Link αποθετηρίου τελικής αναφοράς:https://github.com/p17kalo1/hcireport/
 
 ### ΕΙΣΑΓΩΓΉ
 # 
